@@ -24,4 +24,4 @@ A native iOS application serving as a dedicated mobile portal for the AWWA (Army
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sugam-dev/awwa-ios-app.git](https://github.com/sugam-dev/awwa-ios-app.git)
+   git clone https://github.com/sugam-dev/awwa-ios-app.git
